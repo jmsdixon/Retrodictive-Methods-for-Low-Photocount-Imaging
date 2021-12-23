@@ -1,5 +1,5 @@
 # Retrodictive-Methods-for-Low-Photocount-Imaging
-This package contains three low photocount image reconstruction methods.  They comprise a mix of smoothing, quantum retrodiction and machine learning. One is a replication of work by Dr Grame Johnstone and the files '', '' and '' are his work.  The rest is entirely my own work.
+This package contains three low photocount image reconstruction methods.  They comprise a mix of smoothing, quantum retrodiction and machine learning. One is a replication of work by Dr Grame Johnstone.  The rest is entirely my own work.
 
 This package contains 3 low intensity light imaging algorithms.  2 methods I developed myself and the 3rd was produced by Dr. Graeme Johnstone of the Institute of Photonics at the University of Strathclyde and is a replication of the work of Speiret’s et. al. (2017) “From Retrodiction to Bayesian Quantum Imaging”. 
 The files here can be used to simulate a low intensity light imaging of a PNG of the user’s choice, set simulate_t = 1 and a PNG in Interface.m and run.
